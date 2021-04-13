@@ -1,0 +1,22 @@
+.logo {
+    max-height: 165px;
+    max-width: 110px;
+    margin-top: 50px;
+}
+.custom_range{
+    display: block;
+    width: 100%;
+}
+
+body{
+    background: #141414;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top{
+    font-size: 50px;
+}
